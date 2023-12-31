@@ -19,7 +19,7 @@ Feel free to use and modify this code to create your own versions of the Figma l
 
 ## Author
 
-[Ajay Gupta]
+[Ajay Gupta](https://www.github.com/shivoham8)
 
 ## License
 
